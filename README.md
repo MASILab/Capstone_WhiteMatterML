@@ -1,2 +1,2 @@
 # Capstone_WhiteMatterML
-repo for initial development of Rastko Stojsin's capstone project on link between White Matter &amp; Alzheimer's
+Interpretable machine learning approach to identifying white matter brain differences between healthy aging and Alzheimer’s onset through diffusion tensor imaging
