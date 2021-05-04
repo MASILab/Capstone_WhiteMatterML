@@ -1,9 +1,10 @@
 # Interpretable Machine Learning Approach to Alzheimer's Classification
 Interpretable machine learning approach to identifying white matter brain differences between healthy aging and Alzheimer’s onset through diffusion tensor imaging
+![image](https://user-images.githubusercontent.com/54241448/116970200-29605280-ac7d-11eb-837e-794cc2e4822d.png)
 
 ## The Approach 
 My approach was to use a variety of models to classify scans of those diagnosed with AD and those without AD and look at the features the models considered important in making the classification. These features could reveal details about how and where AD effects the connectivity of the brain.
-![image](https://user-images.githubusercontent.com/54241448/116970200-29605280-ac7d-11eb-837e-794cc2e4822d.png)
+![image](https://user-images.githubusercontent.com/54241448/116971049-9cb69400-ac7e-11eb-8ed6-e709cd90a87e.png)
 
 ## The Data (data folder)
 - primary data : Baltimore Longitudinal Study of Aging (BLSA) (NOT INCLUDED)
