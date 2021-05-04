@@ -27,5 +27,9 @@ I chose 5 separate models (logistic regression, support vector classification, r
 ![image](https://user-images.githubusercontent.com/54241448/116970998-87da0080-ac7e-11eb-821c-c6ffe038afdf.png)
 ![image](https://user-images.githubusercontent.com/54241448/116971003-8ad4f100-ac7e-11eb-8121-803171c20dfa.png)
 
-
+## Future Steps
+- Confirm plausibility of results with neurologist
+- Add / change models to confirm robustness of committee importance determination methodology
+- Explore bundles of interest further (more derived features / actual scans)
+- Incorporate available non-brain scan related data (handedness, sex, etc.)
 
