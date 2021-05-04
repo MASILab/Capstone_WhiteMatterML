@@ -17,8 +17,7 @@ My approach was to use a variety of models to classify scans of those diagnosed 
 
 ## The Models
 I chose 5 separate models (logistic regression, support vector classification, random forest classifier, multi-layer perceptron (fully connected neural net), and gradient boosted trees classifier), that had acceptable performance in classifying AD and non-AD scans from which to extract feature importance’s’.
-
-![Uploading Screen Shot 2021-05-04 at 2.13.19 AM.png…]()
+![image](https://user-images.githubusercontent.com/54241448/116971164-c66fbb00-ac7e-11eb-9050-236db9cca623.png)
 
 ## The Feature Importances
 ![image](https://user-images.githubusercontent.com/54241448/116970989-84df1000-ac7e-11eb-99cc-985aa3a9e232.png)
